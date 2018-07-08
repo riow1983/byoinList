@@ -1,2 +1,3 @@
-$ virtualenv ENV
-$ source ENV/bin/activate
+$ virtualenv ENV  
+$ source ENV/bin/activate  
+$ deactivate
